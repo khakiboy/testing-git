@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Email</string>
+
+    <string name="enter_email_title">Username or Email Address</string>
+    <string name="enter_password">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="forgot_password_button">forgot your password?</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="draft">Drafts</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="contacts">Contacts</string>
+    <string name="Calendar">Calendar</string>
+    <string name="tasks">Tasks</string>
+    <string name="journal">Journal</string>
+    <string name="notes">Notes</string>
+
+</resources>
